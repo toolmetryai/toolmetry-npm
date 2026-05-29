@@ -1,6 +1,6 @@
 {
   "name": "toolmetry",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A comprehensive developer tools library — Base64, URL encoding, hashing, JWT, UUID, AES-256 encryption, random generation, color conversion, HTML entities, number base, text utilities, JSON, password generator, Morse code, Roman numerals, cron validator, diff checker, lorem ipsum and more. Built by ToolmetryAI.",
   "main": "./src/index.js",
   "module": "./src/index.mjs",
